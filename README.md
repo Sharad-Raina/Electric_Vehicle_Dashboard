@@ -5,6 +5,11 @@ This project presents an interactive **Tableau Dashboard** analyzing Electric Ve
 
 🔗 **[View the Tableau Dashboard Here](https://public.tableau.com/views/Electric_Vehicle_Data_Analysis_17398064657260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
+
+<img width="1413" alt="Screenshot 2025-02-17 at 3 21 04 PM" src="https://github.com/user-attachments/assets/719c4f99-399f-4fb6-a572-f0e1e57029be" />
+
+
+
 ## **Problem Statement**  
 The primary goal of this project is to analyze the growth and distribution of electric vehicles using real-world data. It aims to answer critical questions about market penetration, technological advancements, and consumer preferences using interactive visualizations.  
 
@@ -36,7 +41,6 @@ The dashboard includes:
 ## **Tools & Technologies Used**  
 - **Tableau** (for data visualization)  
 - **Microsoft Excel** (for initial data processing)  
-- **Power BI** *(Dec 2023 version, for additional insights)*  
 - **GitHub** (for project documentation and sharing)  
 
 ## **How to Use the Dashboard**  
